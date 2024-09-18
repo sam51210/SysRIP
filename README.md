@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/5aef07a7-6cef-47c1-a910-d099c83736a3)
+![Screenshot_2024-09-18_191954-removebg-preview](https://github.com/user-attachments/assets/8efd6085-0e79-4a91-953d-7b672db6ba9c)
+
 #### Easy system management and automation
 SysRIP makes it easy to perform different tasks on your device and also speeds them up.
 
