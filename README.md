@@ -1,4 +1,5 @@
 # SYSRIP IS TEMPORARILY DISCONTINUED AS OF 28 SEPTEMBER 2024
+# ALL ONLINE SERVICES HAVE BEEN SHUT DOWN
 
 ![Screenshot_2024-09-18_191954-removebg-preview](https://github.com/user-attachments/assets/8efd6085-0e79-4a91-953d-7b672db6ba9c)
 
