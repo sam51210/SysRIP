@@ -1,0 +1,10 @@
+SysRIP 🄫 TSoft 2024
+THIS DOCUMENT WAS LAST UPDATED OCTOBER 22, 2024
+
+By using this software, you are agreeing to the MIT Licence. SysRIP is open-source and follows the MIT Licence.
+
+When using SysRIP, an active internet connection is required for some features. TSoft reserves the right to disable these online services for this application at any time.
+SysRIP is licenced under the MIT Licence which permits "fair use" however if you have any copyright issues please contact us. This only applies for the online services. We physically cannot change the offline features.
+
+If you do not agree with the online service terms, please install SysRIP Classic or SysRIP Offline (coming soon).
+If you do not agree with the software terms, please do not use SysRIP.
