@@ -2,8 +2,9 @@
 
 #### Easy system management and automation
 
-## 100% BATCH
+### 100% BATCH
 ###### Some VBScript files are used for playing audio
+
 
 SysRIP makes it easy to perform different tasks on your device and also speeds them up.
 
