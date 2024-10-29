@@ -9,4 +9,6 @@ SysRIP is determined to follow all laws provided by the UK Government. We cannot
 
 We are currently awaiting a response from the Police Advisory Board (PAB) to agree for TSoft to automatically deny any legal disputes from overseas territories.
 
+Your actions are logged in a file compliant with anti-PII laws.
+
 If you do not agree with the legal terms, please do not use SysRIP.
