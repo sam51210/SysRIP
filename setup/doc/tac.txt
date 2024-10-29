@@ -1,5 +1,7 @@
 SysRIP (c) TSoft 2024
-THIS DOCUMENT WAS LAST UPDATED OCTOBER 22, 2024
+THIS DOCUMENT WAS LAST UPDATED OCTOBER 29, 2024
+
+TERMS AND CONDITIONS
 
 By using this software, you are agreeing to the MIT Licence. SysRIP is open-source and follows the MIT Licence.
 
