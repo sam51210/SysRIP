@@ -7,6 +7,22 @@
 
 SysRIP makes it easy to perform different tasks on your device and also speeds them up.
 
+# SysRIP News Dedicated Pages
+## Page 1
+- Main SysRIP news
+- Written by TSoft
+- Maintained by TSoft
+
+## Page 2
+- Sponsor news
+- Not written by TSoft
+- Not maintained by TSoft
+
+## Page 3
+- Alternative news
+- Written by TSoft
+- Maintained by TSoft
+
 # The SMART program
 ## What does SMART mean?
 SMART stands for:
