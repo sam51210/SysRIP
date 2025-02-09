@@ -7,6 +7,9 @@
 
 SysRIP makes it easy to perform different tasks on your device and also speeds them up.
 
+# IMPORTANT TRIAGE UPDATE
+Running SysRIP in Triage will provide a false score of 10. Please run this in another analysis tool (such as VirusTotal) or review the code manually.
+
 # SysRIP News Dedicated Pages
 ## Page 1
 - Main SysRIP news
